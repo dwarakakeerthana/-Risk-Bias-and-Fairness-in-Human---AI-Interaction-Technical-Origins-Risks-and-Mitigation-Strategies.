@@ -1,4 +1,4 @@
-# -Risk-Bias-and-Fairness-in-Human---AI-Interaction-Technical-Origins-Risks-and-Mitigation-Strategies
+# Bias-and-Fairness-in-Human---AI-Interaction-Technical-Origins-Risks-and-Mitigation-Strategies
 # Bias and Fairness in AI-Human Interaction: Technical Origins, Mitigations, and Risk Strategies
 
 ## 📌 Overview
